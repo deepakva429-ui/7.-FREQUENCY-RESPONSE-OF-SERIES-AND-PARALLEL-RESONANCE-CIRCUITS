@@ -34,6 +34,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 
 **TABULATION:**
+<img width="1553" height="1181" alt="image" src="https://github.com/user-attachments/assets/fff1e4c0-90f0-4c9a-9218-bb373817e353" />
 
 
 **Calculation:**
