@@ -24,7 +24,7 @@ Frequency Response is a plot of output voltage or current of a resonance circuit
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
 
 **CIRCUIT DIAGRAM:**
-<img width="1034" height="1599" alt="image" src="https://github.com/user-attachments/assets/4c8784dd-b3cc-483e-adbe-f4e90e3340e1" />
+<img width="914" height="1522" alt="image" src="https://github.com/user-attachments/assets/52d7784d-a18e-49ad-bed2-ca0d5e5f1471" />
 
 
 **Model graph:**
@@ -32,15 +32,13 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 
 **TABULATION:**
-<img width="1553" height="1181" alt="image" src="https://github.com/user-attachments/assets/fff1e4c0-90f0-4c9a-9218-bb373817e353" />
+![Uploading image.png…]()
 
 
 **Calculation:**
-<img width="1600" height="1167" alt="image" src="https://github.com/user-attachments/assets/96c9e6d3-fe3c-43aa-a42b-2a5183d4dc07" />
-<img width="901" height="1420" alt="image" src="https://github.com/user-attachments/assets/a350871e-aa91-4595-93f7-2eee29d09746" />
-<img width="1428" height="570" alt="image" src="https://github.com/user-attachments/assets/8e03d23a-1f6c-45c2-a210-46e2f2734928" />
-
-
+<img width="1600" height="1126" alt="image" src="https://github.com/user-attachments/assets/60c3e6c1-157f-4860-a4ff-e2d1ff8e9ba2" />
+<img width="916" height="1545" alt="image" src="https://github.com/user-attachments/assets/33900a87-c907-481a-9b88-78776209f0b7" />
+<img width="1593" height="750" alt="image" src="https://github.com/user-attachments/assets/168ccf03-1040-4216-ba9a-6692d718aa6e" />
 
 **PROCEDURE:**
 
@@ -54,10 +52,10 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 Graph:
-<img width="1492" height="1600" alt="image" src="https://github.com/user-attachments/assets/556122b9-e63d-4601-b95b-7ef90927d2ef" />
+<img width="1600" height="1591" alt="image" src="https://github.com/user-attachments/assets/183fbb0b-2bd1-4ec5-bd3f-d9a65ece5376" />
 
 **Mark split up:**
-<img width="1600" height="1023" alt="image" src="https://github.com/user-attachments/assets/ceb1c63c-7269-4894-aa84-b224caa5afb8" />
+<img width="1600" height="1037" alt="image" src="https://github.com/user-attachments/assets/f668c56b-d50f-4455-b108-1421c6ebc496" />
 
 **RESULT:**
 
